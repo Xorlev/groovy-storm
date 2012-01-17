@@ -14,6 +14,8 @@ import backtype.storm.tuple.Values
 import backtype.storm.utils.Utils
 
 /**
+ * Gleefully stolen from the storm-starter project
+ * ExclamationTopology, minus the inline classes and semicolons
  * 2012-01-17
  * @author Michael Rose <michael@fullcontact.com>
  */

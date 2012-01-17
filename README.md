@@ -11,6 +11,7 @@ Pull requests are always appreciated.
 ## Running
 
 Should be easy as:
+
 	$ mvn package
 	[INFO] Scanning for projects...
 	[INFO]                                                                         
